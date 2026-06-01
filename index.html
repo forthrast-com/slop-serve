@@ -3,9 +3,15 @@ title: slop
 layout: default
 ---
 
+<h1>slop I gen'd</h1>
+
 <ul>
 {% assign posts = site.pages | where_exp: "p", "p.path contains 'posts/'" | sort: "name" %}
 {% for p in posts %}
   <li><a href="{{ p.url }}">{{ p.title | default: p.name | replace: '-', ' ' | replace: '.md', '' }}</a></li>
 {% endfor %}
 </ul>
+
+<footer style="margin-top:3rem;padding-top:1rem;border-top:1px solid var(--subtle);font-size:0.875rem;color:var(--muted);">
+  <a href="https://github.com/forthrast-com/slop-serve">github</a> &middot; <a href="https://bsky.app/profile/forthrast.com">@forthrast.com</a>
+</footer>
