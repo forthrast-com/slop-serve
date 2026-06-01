@@ -6,17 +6,17 @@
   <title>{% if page.title %}{{ page.title }}{% elsif page.name %}{{ page.name | replace: '-', ' ' | replace: '.html', '' | replace: '.md', '' }}{% else %}slop{% endif %}</title>
   <style>
     :root {
-      --bg: #f7f4ef;
-      --fg: #2c2926;
-      --muted: #7a7065;
-      --subtle: #ede9e2;
+      --bg: #ffffff;
+      --fg: #111111;
+      --muted: #767676;
+      --subtle: #f0f0f0;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg: #19171a;
-        --fg: #e2ddd6;
-        --muted: #8c8278;
-        --subtle: #26232a;
+        --bg: #111111;
+        --fg: #e8e8e8;
+        --muted: #888888;
+        --subtle: #1e1e1e;
       }
     }
     *, *::before, *::after { box-sizing: border-box; }
