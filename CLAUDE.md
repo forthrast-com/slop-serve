@@ -25,3 +25,5 @@ open('posts/yourfile.md', 'w').write(re.sub(r'cite\S+', '', text))
 ## deployment
 
 Merge to `main`. GitHub Pages builds automatically from the root via Jekyll.
+
+This is a rapid project — commit directly to `main` or merge feature branches straight in without ceremony. No PR review required.
