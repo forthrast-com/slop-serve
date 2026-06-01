@@ -1,0 +1,11 @@
+---
+title: slop
+layout: default
+---
+
+<ul>
+{% assign posts = site.pages | where_exp: "p", "p.path contains 'posts/'" | sort: "name" %}
+{% for p in posts %}
+  <li><a href="{{ p.url }}">{{ p.title | default: p.name | replace: '-', ' ' | replace: '.md', '' }}</a></li>
+{% endfor %}
+</ul>
