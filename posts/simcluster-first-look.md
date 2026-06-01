@@ -1,5 +1,7 @@
 # simcluster on X and Bluesky
 
+[![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w346iivwpe7p2cyyromqsmo2/bafkreiewbj6dfm424vbliafpz4te4npab267w4e3b2vpeyhi76cqm47pta)](https://bsky.app/profile/pantuso.com/post/3mn7cw3i7pc26)
+
 ## executive summary
 
 the clearest through-line is this: **“simcluster” starts as an internal/technical X-Twitter term, then becomes an X user metaphor for your algorithmic local scene, and only later turns up on Bluesky as a knowingly imported way to talk about subgraph-local reality, scene boundaries, and cartographic/art-play around the social graph**. The underlying technical term is documented in Twitter’s 2020 KDD paper on SimClusters, in X’s recommendation-code repository, and in current X Help language that still references “Simcluster” for recommendation similarity. Bluesky’s own docs, by contrast, describe timelines, feed generators, and custom feeds rather than any SimClusters-like named system. 
