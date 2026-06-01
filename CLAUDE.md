@@ -24,6 +24,6 @@ The script strips cite blobs, invisible delimiters, and drops table columns that
 
 ## deployment
 
-Merge to `main`. GitHub Pages builds automatically from the root via Jekyll.
+Push directly to `main`. GitHub Pages builds automatically from the root via Jekyll.
 
-This is a rapid project — commit directly to `main` or merge feature branches straight in without ceremony. No PR review required.
+**Do not use feature branches or PRs.** Commit straight to `main` every time. No review, no ceremony.
