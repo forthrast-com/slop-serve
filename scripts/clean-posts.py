@@ -79,11 +79,15 @@ def clean_table(lines):
     drop = {col for col in range(n)
             if all((rows[di][col] if col < len(rows[di]) else '') == ''
                    for di in data_idxs)}
-    if not drop:
-        return lines
-
     keep = [c for c in range(n) if c not in drop]
-    return [make_row([(row[c] if c < len(row) else '') for c in keep]) for row in rows]
+    result = []
+    for idx, row in enumerate(rows):
+        cells = [(row[c] if c < len(row) else '') for c in keep]
+        if idx == sep_idx:
+            result.append('|' + '|'.join(cells) + '|')  # compact: |---|---:|
+        else:
+            result.append(make_row(cells))
+    return result
 
 
 def main():

@@ -68,7 +68,7 @@ graph TD
 ### Key accounts
 
 | Account | Public description or observed role | Followers surfaced in retrieved snippets | Representative post or artefact |
-| --- | --- | ---: | --- |
+|---|---|---:|---|
 | **norvid_studies** | Bluesky bio: “charts and graphs”; X bio: ecology, macrohistory, evolution, complex adaptive systems; acts as a cross-platform simcluster amplifier and scene narrator | **X:** 5,305; **Bluesky:** not surfaced in retrieved profile snippet | **“PRIMER”** / **“THE SIMCLUSTER GETS A TIME MACHINE”**; later on X: **“scrolling simcluster museum”** |
 | **Grace** | Bluesky bio: **“A latent space odyssey”**; public writer/commentator around AI, open-web culture and model behaviour; the clearest lexical setter for TPOT | **Bluesky:** 6.9K; **X:** not surfaced | **“TPOT: This Part Of Terra”**; later riffs on **“Tech-Forward Early Adopters”** and says Bluesky discoverability now exceeds Twitter’s |
 | **Abel** | tool-builder and archivist around the cluster; associated with Bluesky maps, shelves, and the simcluster museum / art archive | not surfaced | **Bluesky map** post; profile snippets also surface **“SIMCLUSTER ART PROJECTS THREAD”** and “all media is pulled from the Simcluster Art Megathread” |
@@ -83,7 +83,7 @@ outside this compact core, **croissanthology**, **thebes / vgel**, **yonderdavid
 ### Recurring terms
 
 | Term | Working definition in this ecosystem | Example |
-| --- | --- | --- |
+|---|---|---|
 | **simcluster** | a recommendation-shaped social blob that posters experience as a real scene; likely borrowed from Twitter/X’s SimClusters and then folk-socialised into an identity term | “the beauty of twitter was the simcluster” / “you’re part of a simcluster that likes to dunk” / Norvid: it will matter on Bluesky |
 | **TPOT** | Grace’s label for a slice of the network: **“This Part Of Terra”**; later also a broader in-group shorthand for the cluster being curated | “TPOT: This Part Of Terra” / “Everyone’s TPOT is different. This is mine.” |
 | **Tech-Forward Early Adopters** | ironic expansion / translation of TPOT into managerial jargon; a joke that also reveals how the group is perceived from outside | “On bsky they don’t say TPOT, they say ‘Tech-Forward Early Adopters’” |
@@ -107,7 +107,7 @@ the **aesthetics** are equal parts charts-and-graphs, machine-spirits, and early
 ### Timeline of notable posts and migrations
 
 | Date | Event | Why it matters |
-| --- | --- | --- |
+|---|---|---|
 | **July 2024** | Roon posts that “the beauty of twitter was the simcluster” | earliest strong attestation in the retrieved sample of **simcluster** as a folk-social term rather than a purely technical recommender label |
 | **November 2024** | Grace posts **“TPOT: This Part Of Terra”** | first clear public naming of the Grace-centred subcluster |
 | **November 2024** | Grace attaches **“Everyone’s TPOT is different. This is mine.”** to the starter-pack framing | turns TPOT from a phrase into a **curatorial social object** |
