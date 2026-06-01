@@ -1,0 +1,21 @@
+name: clean posts
+on:
+  push:
+    paths:
+      - posts/**
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: strip cite blobs and drop empty table columns
+        run: python3 scripts/clean-posts.py posts/*.md
+      - name: commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "clean: strip cite blobs and empty table columns [skip ci]"
+          git push

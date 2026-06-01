@@ -8,15 +8,15 @@ Drop `.md` files into `posts/`. No front matter needed. They appear on the index
 
 ## cite cleanup
 
-Research docs exported from Claude often contain citation blobs with invisible Unicode delimiters. Strip them before committing:
+Research docs exported from Claude often contain citation blobs (`citeturnNsearchN`) and invisible Unicode delimiters (U+E200). The pipeline handles this automatically via `.github/workflows/clean-posts.yml`, which runs on every push that touches `posts/`.
+
+To clean manually before committing:
 
 ```sh
-python3 -c "
-import re
-text = open('posts/yourfile.md').read()
-open('posts/yourfile.md', 'w').write(re.sub(r'cite\S+', '', text))
-"
+python3 scripts/clean-posts.py posts/*.md
 ```
+
+The script strips cite blobs, invisible delimiters, and drops table columns that are entirely citation content (e.g. a "Sources" column).
 
 ## DNS
 
