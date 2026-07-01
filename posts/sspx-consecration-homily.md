@@ -1,6 +1,6 @@
 # sspx_consecration_homily — English transcript (Écône, 1 July 2026)
 
-*Source: Otter.ai recording ["Note" by Mike Doughney](https://otter.ai/u/q4fGIxQToz3ednZSIHRLv6uUekg) (37 min), of the SSPX episcopal consecrations held at Écône on 1 July 2026. Transcribed with whisper.cpp `large-v3` run on loudness-normalised audio (the raw recording was very quiet, ~−36 LUFS). The homily was preached in French and rendered phrase-by-phrase by an English interpreter; this is the **English rendering only** — the French original is omitted. Obvious ASR errors have been corrected where context made the intended word unambiguous (e.g. "Écône", "St Cyril of Alexandria", "Archbishop Lefebvre"); other errors may remain and personal names may be inexact. The **`##` section headings were added for navigation and are NOT part of the spoken homily.***
+*Source: Otter.ai recording ["Note" by Mike Doughney](https://otter.ai/u/q4fGIxQToz3ednZSIHRLv6uUekg) (37 min), of the SSPX episcopal consecrations held at Écône on 1 July 2026. The French homily was rendered phrase-by-phrase by a live English interpreter. This is an **edited transcript of that English interpretation only**; the French speech is omitted. It was prepared primarily from whisper.cpp `large-v3` run on loudness-normalised audio (the raw recording was very quiet, ~−36 LUFS), checked against the other local ASR outputs, and restored conservatively where the recordings or transcripts were garbled. Punctuation, paragraphing and the **`##` navigation headings** are editorial and were not spoken. Some uncertain wording may remain.*
 
 ---
 
@@ -74,7 +74,7 @@ And so we want to do something by these consecrations. We want to preach the pre
 
 And in speaking of the unique power, the value, the dignity of the precious blood of our Lord, we cannot forget where it comes from. It was formed, brought forth, furnished by the very pure blood of Our Lady. It was Our Lady who gave to the Word his humanity. It was in her most pure and immaculate blood that the humanity of our Lord was formed, and the blood of our Lord was formed.
 
-She who was present with our Lord, and for us, was there in that place. She saw the blood flow from our Lord's wounds on the cross. And it is she who collects it at the foot of the cross, who keeps it, who still at the altar presents it. It is she who, at the Mass, then spreads these graces to souls. She has understood the power and the dignity of this blood. What a mystery — this association of Our Lady with her Divine Son, always at his side. You can see it. All of our faith, all of our religion, all of our love, all of it turns around our Lord, because everything turns around this blood.
+Our Lady, who was present there with our Lord and for us, saw the blood flow from his wounds on the cross. And it is she who collects it at the foot of the cross, who keeps it, who still at the altar presents it. It is she who, at the Mass, then spreads these graces to souls. She has understood the power and the dignity of this blood. What a mystery — this association of Our Lady with her Divine Son, always at his side. You can see it. All of our faith, all of our religion, all of our love, all of it turns around our Lord, because everything turns around this blood.
 
 ## The charge to the new bishops
 
@@ -100,10 +100,10 @@ The first is St Cyril of Alexandria. The liturgy says about him the most beautif
 
 Another bishop, who is a model much closer to us, not canonized yet: His Excellency Archbishop Lefebvre. About him we could also say that his only care was the faith, and because of that he suffered much. And this faith he saw well how it was synthesized and encapsulated in the Mass, in the Holy Mass, and therefore in the blood of our Lord Jesus Christ. How could he do this? How could he know this, so many years before all these things developed — the cause of the crisis? How did he have such clairvoyance, such strength? That is the wisdom of the cross. And the cross which he carried was the source of his wisdom. Today, more than ever, his spirit is among us. He prays for us, he prays for you, especially when he shows you the path that you have to follow through the wisdom of the cross.
 
-But the disciples are not superior to their master. If he was treated this way, if he suffered this way, we must expect the same thing. More than thirty-eight years ago — thirty-eight years ago — he was condemned, a saint.
+But the disciples are not superior to their master. If he was treated this way, if he suffered this way, we must expect the same thing. Thirty-eight years ago, he was condemned.
 
 ## Closing
 
-Do we have to look for anything else? Should we be afraid? Should we weaken? This question is very important. I let our Lord speak again. It is he who will respond. "Blessed are you when they insult you, when they persecute you, when they say all sorts of things falsely against you — because of me, because of my friendship, because of my rights, because of my law, because of my faith, because of my commandment. Rejoice, be joyful, because your reward will be great in heaven."
+Do we have to look for anything else? Should we be afraid? Should we weaken? This question is very important. I let our Lord speak again. It is he who will respond. "Blessed are you when they insult you, when they persecute you, when they say all sorts of things falsely against you — because of me, because of my kingship, because of my rights, because of my law, because of my faith, because of my commandment. Rejoice, be joyful, because your reward will be great in heaven."
 
 In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
