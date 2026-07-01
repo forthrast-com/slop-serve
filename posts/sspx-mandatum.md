@@ -1,6 +1,6 @@
 # sspx_mandatum — English transcript
 
-*Source: `sspx_mandatum.mp4` (9m16s). Transcribed with whisper-cpp `base.en`. English passages only; French/Latin portions of the recording are omitted. Text is verbatim — ASR quirks (e.g. "St. Pius the Tent", "Zeitzkoff") left uncorrected.*
+*Source: video posted by [@MLJHaynes](https://x.com/MLJHaynes/status/2072220255665979816) (`sspx_mandatum.mp4`, 9m16s). Transcribed with whisper-cpp `base.en`. English passages only; French/Latin portions of the recording are omitted. Text is verbatim — ASR quirks (e.g. "St. Pius the Tent", "Zeitzkoff") left uncorrected.*
 
 ---
 
